@@ -1,0 +1,13 @@
+{
+    "where": "properties[\"search_string\"]==\"tile\"",
+    "event": ["SPW_product_listings_search_and_filter", "abc", "def"],
+    "limit": 100,
+    "to_date": "2023-11-07",
+    "from_date": "2023-08-07",
+    "project_id": 3143017,
+    "authorization": {
+      "username": "..mp--",
+      "password": ""
+    }
+}
+  
